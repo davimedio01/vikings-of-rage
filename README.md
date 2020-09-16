@@ -28,10 +28,10 @@ WASD - Andar<br/>
 J - Atacar
 
 # Imagens do Jogo<br/>
-<img src="https://raw.githubusercontent.com/davimedio01/Games/master/Java/Vikings%20Of%20Rage/Screenshots/01.png" width="800" height="500">
-<img src="https://raw.githubusercontent.com/davimedio01/Games/master/Java/Vikings%20Of%20Rage/Screenshots/02.png" width="800" height="500">
-<img src="https://raw.githubusercontent.com/davimedio01/Games/master/Java/Vikings%20Of%20Rage/Screenshots/03.png" width="800" height="500">
-<img src="https://raw.githubusercontent.com/davimedio01/Games/master/Java/Vikings%20Of%20Rage/Screenshots/04.png" width="800" height="500">
+<img src="https://raw.githubusercontent.com/davimedio01/vikings-of-rage/master/Screenshots/01.png" width="800" height="500">
+<img src="https://raw.githubusercontent.com/davimedio01/vikings-of-rage/master/Screenshots/02.png" width="800" height="500">
+<img src="https://raw.githubusercontent.com/davimedio01/vikings-of-rage/master/Screenshots/03.png" width="800" height="500">
+<img src="https://raw.githubusercontent.com/davimedio01/vikings-of-rage/master/Screenshots/04.png" width="800" height="500">
 
 # Observações<br/>
 A pasta Client_Single Player_Test contém a fase beta e singleplayer. Nela, é possível testar as mecânicas de ataque e movimentação do jogo multiplayer.<br/>
